@@ -1,0 +1,8 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 919F-C130
+
+ Directory of C:\Users\Admin\Desktop\MyNewGitProject
+
+02-01-2021  18:56                 0 test1.txt
+               1 File(s)              0 bytes
+               0 Dir(s)  10,243,452,928 bytes free
